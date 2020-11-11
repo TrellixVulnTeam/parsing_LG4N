@@ -1,0 +1,16 @@
+{
+  "options": {
+    "text": "Data Scientist",
+    "area": 1,
+    "per_page": 50
+  },
+  "refresh": false,
+  "max_workers": 7,
+  "save_result": false,
+  "rates": {
+    "USD": 0.013109,
+    "EUR": 0.010987,
+    "UAH": 0.364312,
+    "RUR": 1
+  }
+}
